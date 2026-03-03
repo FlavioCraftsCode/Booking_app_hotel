@@ -1,0 +1,33 @@
+@import "tailwindcss";
+
+@theme {
+  --color-brand-primary: #ff7f00;
+  /* Laranja */
+  --color-brand-dark: #003580;
+  /* Azul Booking Real */
+  --color-brand-accent: #febb02;
+  /* Amarelo de Seleção */
+}
+
+body {
+  @apply bg-[#f5f5f5];
+  /* Fundo levemente cinza para os cards brancos "pularem" */
+}
+
+/* No seu src/index.css */
+
+@layer utilities {
+
+  /* Esconde a scrollbar para Chrome, Safari e Opera */
+  .no-scrollbar::-webkit-scrollbar {
+    display: none;
+  }
+
+  /* Esconde a scrollbar para IE, Edge e Firefox */
+  .no-scrollbar {
+    -ms-overflow-style: none;
+    /* IE and Edge */
+    scrollbar-width: none;
+    /* Firefox */
+  }
+}
