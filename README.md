@@ -1,10 +1,11 @@
+# 🏨 LuxeStay Experience
 
 > Dashboard de reservas de hotéis de luxo desenvolvido com arquitetura Full Stack, foco em performance e uma interface de usuário refinada.
 
 ## 📺 Demonstração do Projeto
 
 <p align="center">
-  <video src="https://github.com/user-attachments/assets/4304bd72-a96b-424c-9e19-3056061dcb18" controls="controls" style="max-width: 100%; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <video src="https://github.com/user-attachments/assets/547c5bc5-f5bb-4e8b-8172-47a2d037f22a" controls="controls" style="max-width: 100%; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
     Seu navegador não suporta a reprodução de vídeos.
   </video>
 </p>
